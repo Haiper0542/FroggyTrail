@@ -9,7 +9,7 @@
 * 하나라도 남거나 타임 오버가 되어버릴 경우 게임 오버됩니다.
 * 애드몹 및 업데이트 등의 테스트를 위해 제작되었습니다.
 + **조작법**
-   + 개구리 이동 : 상하좌우 스와이프 or 키패드 활성화
+   + 개구리 이동 : 상하좌우 스와이프 or 키패드를 활성화하여 키패드 
 ### 게임 화면
 <img src="https://user-images.githubusercontent.com/40797534/56102152-ec29aa80-5f65-11e9-9d5f-cbeb9e2688c4.png" width="35%"></img>
 <img src="https://user-images.githubusercontent.com/40797534/56102151-ec29aa80-5f65-11e9-8b28-9bfd8833df54.png" width="35%"></img>
