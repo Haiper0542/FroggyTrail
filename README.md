@@ -20,8 +20,7 @@
 + **개선 사항**
    + 현재 스테이지 구성이 상당히 랜덤적임
       + 스테이지 구현 인공 지능을 좀 더 개선 
-      
-### 시연 영상<
+### 시연 영상
 ##### Youtube 영상 : [https://youtu.be/tLRCtbK1l7g](https://youtu.be/tLRCtbK1l7g)
 ---
 ### 게임 화면
