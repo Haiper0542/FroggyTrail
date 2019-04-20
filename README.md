@@ -20,7 +20,6 @@
 + **개선 사항**
    + 현재 스테이지 구성이 상당히 랜덤적임
       + 스테이지 구현 인공 지능을 좀 더 개선 
-## 시연 영상 : [https://youtu.be/tLRCtbK1l7g](https://youtu.be/tLRCtbK1l7g)
 ### 게임 화면
 <img src="https://user-images.githubusercontent.com/40797534/56102152-ec29aa80-5f65-11e9-9d5f-cbeb9e2688c4.png" width="35%"></img>
 <img src="https://user-images.githubusercontent.com/40797534/56102151-ec29aa80-5f65-11e9-8b28-9bfd8833df54.png" width="35%"></img>
@@ -28,3 +27,5 @@
 <img src="https://user-images.githubusercontent.com/40797534/56102158-ecc24100-5f65-11e9-9a55-1594e898e761.png" width="35%"></img>
 <img src="https://user-images.githubusercontent.com/40797534/56102159-ed5ad780-5f65-11e9-9a86-ece2375d4010.png" width="35%"></img>
 <img src="https://user-images.githubusercontent.com/40797534/56102154-ecc24100-5f65-11e9-99d2-9002c295f70f.png" width="35%"></img>
+
+## 시연 영상 : [https://youtu.be/tLRCtbK1l7g](https://youtu.be/tLRCtbK1l7g)
